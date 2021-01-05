@@ -1,0 +1,24 @@
+body{
+    font-family: 'Redressed', cursive;
+    font-family: 'Xanh Mono', monospace;
+}
+h1{
+    font-size: 40px;
+    font-style: ;
+    
+}
+h2{
+
+}
+.name-highlight{
+    color: orange;
+}
+.header-half-width{
+    width: 40%;
+    float: left;
+    margin: 2%;
+    padding: 2%;
+}
+.header-half-width img{
+    width: 100%;
+}
